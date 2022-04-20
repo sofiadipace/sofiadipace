@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sofia, I am italian, been living in Germany for over 6 years
-- 👀 I’m interested in natural languages, NLP and machine learning
+- 👀 I’m interested in natural languages, NLP and software development
 - 🌱 I’m currently learning Arabic, Python and Java Script
 
 <!---
