@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sofia, I am italian, been living in Germany for over 6 years
+- 👋 Hi, I’m Sofia, I am italian, been living in Germany for over 7 years
 - 👀 I’m interested in natural languages, Deep Learning for NLP and Data Engineering.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Golang
 
 <!---
 sofiadipace/sofiadipace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
