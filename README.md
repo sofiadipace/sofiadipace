@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sofia, I am italian, been living in Germany for over 7 years
+- 👋 Hi, I’m Sofia :)
 - 👀 I’m interested in natural languages, Deep Learning for NLP and Data Engineering.
 - 🌱 I’m currently learning React and Golang
 
